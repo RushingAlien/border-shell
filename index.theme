@@ -1,0 +1,6 @@
+[X-GNOME-Metatheme]
+Name=border-shell
+Type=X-GNOME-Metatheme
+Comment=border-shell shell theme
+Encoding=UTF-8
+GtkTheme=border-shell

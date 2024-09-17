@@ -4,15 +4,27 @@ font-weight: bold; height: 40px;
 color: rgba(221, 221, 221, 1);
 font-feature-settings: 'tnum';
 transition-duration: 250ms;
+/*text-shadow: 5px 5px 10 rgba(0,0,0,0.5);*/
 font-size: 10pt;
 /*border: 2px solid rgba(221, 199, 161, 0.5);
 border-radius: 19px;*/ 
 }
 
-#panel .panel-button {
+.panel-button {
 background-color:rgba(0,0,0,0.5);
 border-radius:19px;
-margin: 5px;
+margin: 2px;
+/*margin-top: 5px;
+margin-bottom: 5px;
+margin-right: 5px;
+margin-left: 5px;
+border: 2px solid rgba(0, 199, 161, 0.5);*/
+}
+
+.clock {
+background-color:rgba(0,0,0,0.5);
+border-radius:19px;
+margin: 4px;
 /*margin-top: 5px;
 margin-bottom: 5px;
 margin-right: 5px;

@@ -31,3 +31,11 @@ margin-right: 5px;
 margin-left: 5px;
 border: 2px solid rgba(0, 199, 161, 0.5);*/
 }
+
+.clock:hover {
+  margin: 3px;
+}
+
+.clock:active {
+  margin: 3px;
+}
